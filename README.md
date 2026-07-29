@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Stack
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Math
 |  |
 | ------- |
