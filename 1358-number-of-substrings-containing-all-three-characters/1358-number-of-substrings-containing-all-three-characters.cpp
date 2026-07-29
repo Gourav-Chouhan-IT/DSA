@@ -1,25 +1,23 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        unordered_map<char, int> counts;
+        int hash[3] = {0}; 
         int l = 0, r = 0, ans = 0;
         int n = s.length();
         
         while (r < n) {
-            counts[s[r]]++; 
+            hash[s[r] - 'a']++; 
             
-            while (counts.size() == 3) {
+            while (hash[0] > 0 && hash[1] > 0 && hash[2] > 0) {
                 ans += (n - r); 
                 
-                counts[s[l]]--;
-                
-                if (counts[s[l]] == 0) {
-                    counts.erase(s[l]); 
-                }
+                hash[s[l] - 'a']--;
                 l++;
-            }   
+            }
+            
             r++;
         }
+        
         return ans;
     }
 };
