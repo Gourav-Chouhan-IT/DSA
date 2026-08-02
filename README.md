@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0085-maximal-rectangle) |
@@ -109,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
