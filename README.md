@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0204-count-primes](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0239-sliding-window-maximum) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0204-count-primes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1390-four-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Factorization
 |  |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Greatest Common Divisor
 |  |
@@ -248,14 +252,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0204-count-primes) |
 | [1390-four-divisors](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1390-four-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0050-powx-n) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
