@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0050-powx-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1390-four-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -253,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
