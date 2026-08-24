@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1390-four-divisors](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Stack
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1390-four-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Counting
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prime Factorization
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1390-four-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1390-four-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Number Sieve
 |  |
