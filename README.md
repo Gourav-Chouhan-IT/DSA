@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0621-task-scheduler) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Trie
 |  |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Quickselect
@@ -173,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
