@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0355-design-twitter) |
 ## Tournament Sort
 |  |
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0204-count-primes) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
