@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0912-sort-an-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0015-3sum) |
 | [0295-find-median-from-data-stream](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0912-sort-an-array) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0846-hand-of-straights) |
 ## Tree
@@ -275,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0146-lru-cache) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
