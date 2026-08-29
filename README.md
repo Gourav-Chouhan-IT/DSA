@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1710-maximum-units-on-a-truck](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Stack
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Quickselect
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Tree
 |  |
 | ------- |
