@@ -9,7 +9,7 @@ public:
         }
         sort(diff.begin() , diff.end());
         for(int i = 0 ; i < n ; i ++){
-            if(diff[i] <= additionalRocks || diff[i] == 0){   
+            if(diff[i] <= additionalRocks){   
                 additionalRocks -= diff[i];
                 full++;                     
             }
