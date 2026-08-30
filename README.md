@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1390-four-divisors](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1710-maximum-units-on-a-truck) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0912-sort-an-array) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Quickselect
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0860-lemonade-change) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Tree
