@@ -1,47 +1,39 @@
-#include <vector>
-#include <queue>
-#include <algorithm>
-
-using namespace std;
-
 class Solution {
 public:
     int maxEvents(vector<vector<int>>& events) {
-        // 1. Sort events by start day ascending
-        sort(events.begin(), events.end());
-
-        // 2. Min-heap storing only end days of active events
-        priority_queue<int, vector<int>, greater<int>> minHeap;
-
-        int count = 0;
-        int i = 0;
         int n = events.size();
-        int day = 1;
+        sort(events.begin(), events.end());  // sort by startDay
 
-        // Loop as long as there are events to process or active events in min-heap
+        priority_queue<int, vector<int>, greater<int>> minHeap;  // min-heap of endDay
+        int i = 0;
+        int day = 0;
+        int count = 0;
+
         while (i < n || !minHeap.empty()) {
-            // If no active events, jump directly to the next event's start day
+            // if heap is empty, jump straight to the next event's start day
+            // (no point looping day-by-day through a gap with nothing available)
             if (minHeap.empty()) {
                 day = events[i][0];
             }
 
-            // Add all events that start on or before 'day'
+            // push every event that has become available by today
             while (i < n && events[i][0] <= day) {
-                minHeap.push(events[i][1]); // Store end day
+                minHeap.push(events[i][1]);
                 i++;
             }
 
-            // Remove events that have already expired before 'day'
+            // discard anything already expired
             while (!minHeap.empty() && minHeap.top() < day) {
                 minHeap.pop();
             }
 
-            // Greedily attend the event that ends earliest
+            // attend the soonest-expiring available event
             if (!minHeap.empty()) {
                 minHeap.pop();
                 count++;
-                day++; // Move to the next day
             }
+
+            day++;
         }
 
         return count;
