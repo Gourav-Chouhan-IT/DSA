@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0630-course-schedule-iii) |
 | [0846-hand-of-straights](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0912-sort-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0630-course-schedule-iii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1094-car-pooling) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0630-course-schedule-iii) |
 | [0846-hand-of-straights](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1094-car-pooling) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0630-course-schedule-iii) |
 | [0846-hand-of-straights](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0860-lemonade-change) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
