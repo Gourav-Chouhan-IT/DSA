@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [1834-single-threaded-cpu](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1834-single-threaded-cpu) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Stack
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1094-car-pooling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1834-single-threaded-cpu](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1834-single-threaded-cpu) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [1834-single-threaded-cpu](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/1834-single-threaded-cpu) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Quickselect
 |  |
