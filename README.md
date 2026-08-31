@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gourav-Chouhan-IT/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
